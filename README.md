@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=300&section=header&text=kilr-whale&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=FFC0CB&text=🍀Hello🍀&reversal=true&textBg=false&fontColor=ffffff&fontAlignY=50&fontAlign=75&animation=blinking" />
 </div>
 
 <h2 align = "center"> ❤️ About me ❤️ </h2>
